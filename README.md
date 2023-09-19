@@ -15,3 +15,7 @@ En la quinta tarea, hemos marcado el píxel más claro y más oscuro de la image
 En la sexta tarea, hemos elaborado una propuesta pop art en la cual mostramos una imagen en grises, que representa los 10 últimos frames obtenidos por la webcam mezclados en uno sólo.
 
 Finalmente, podemos destacar que no es necesario realizar instalaciones adicionales para ejecutar el código que hemos utilizado para resolver las diferentes tareas.
+
+Referencias:
+
+https://docs.opencv.org/4.x/dc/da5/tutorial_py_drawing_functions.html
