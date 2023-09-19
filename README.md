@@ -13,3 +13,5 @@ En la cuarta tarea, hemos modificado uno de los planos de la imagen obtenida por
 En la quinta tarea, hemos marcado el píxel más claro y más oscuro de la imagen obtenida por la webcam. Para ello, transformamos la imagen a escala de grises, y con uso de una función que devuelve los mínimos y máximos de cada píxel pudimos obtener las zonas mas oscuras y claras de la imagen en donde dibujamos unos círculos, y esto por cada frame que recibíamos de la webcam.
 
 En la sexta tarea, hemos elaborado una propuesta pop art en la cual mostramos una imagen en grises, que representa los 10 últimos frames obtenidos por la webcam mezclados en uno sólo.
+
+Finalmente, podemos destacar que no es necesario realizar instalaciones adicionales para ejecutar el código que hemos utilizado para resolver las diferentes tareas.
